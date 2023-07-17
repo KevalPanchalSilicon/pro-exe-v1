@@ -1,0 +1,14 @@
+version: 1.0.9
+files:
+  - url: ConnectingNandan-Setup-1.0.9.exe
+    sha512: Yr0oQ1Ix1/2uyKqPtT3fFcTjyk9xcfLYBsD/eftx5OMZNPPFvo6a8N+h56NtGQcLHauOeE1iF4T3XwrM0S8afQ==
+    size: 471917496
+  - url: ConnectingNandan-Setup-1.0.9-x64.exe
+    sha512: KMvd3wz2/v34vRZ9ZJAADp9Pu2IKOQ8MmMQ3O9yttzY+m0Mm5sa9pzNlRcYABWPZkv31Gyjsga1SqWpzQNyOGw==
+    size: 237504512
+  - url: ConnectingNandan-Setup-1.0.9-ia32.exe
+    sha512: Cxo7xVCCYdrZVEwYxxEajrJl3K++J/1Cdr4SbdWc7oMd8uQT23Im9AJM9Ml0Ag2eegUZnnxOt7MilItcZE1cwg==
+    size: 235464896
+path: ConnectingNandan-Setup-1.0.9.exe
+sha512: Yr0oQ1Ix1/2uyKqPtT3fFcTjyk9xcfLYBsD/eftx5OMZNPPFvo6a8N+h56NtGQcLHauOeE1iF4T3XwrM0S8afQ==
+releaseDate: '2023-07-17T13:32:50.790Z'
